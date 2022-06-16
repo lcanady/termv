@@ -1,0 +1,6 @@
+{
+    "python.analysis.extraPaths": [
+        "../evennia"
+    ],
+    "python.formatting.provider": "black"
+}
